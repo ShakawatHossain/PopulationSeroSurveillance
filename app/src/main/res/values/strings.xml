@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Population Sero Surveillance</string>
+    <string-array name="ocu_list">
+        <item>পছন্দ করুন</item>
+        <item>সরকারী চাকুরী</item>
+        <item>আধা সরকারী চাকুরী</item>
+        <item>বেসরকারী চাকুরী</item>
+        <item>ব্যবসা</item>
+        <item>গার্মেন্টস কর্মী</item>
+        <item>গৃহ পরিচারিকা</item>
+        <item>ছাত্র</item>
+        <item>গৃহিনী</item>
+        <item>গৃহ নির্মাতা</item>
+        <item>দিন মজুর</item>
+        <item>রিকশা ভ্যান চালক</item>
+        <item>মুচি</item>
+        <item>হকার</item>
+        <item>জুতো প্রস্তুতকারক</item>
+        <item>কাঠ মিস্ত্রি</item>
+        <item>বৈদ্যুতিক মিস্ত্রি</item>
+        <item>ভিক্ষুক</item>
+        <item>গাড়ী চালক</item>
+        <item>সুইপার</item>
+        <item>দর্জি</item>
+        <item>দোকানদার</item>
+        <item>স্বাস্থ্য কর্মী</item>
+        <item>মোটর মেকানিক</item>
+        <item>বাবুর্চি</item>
+        <item>বেকার</item>
+        <item>নির্ভরশীল</item>
+        <item>অবসরপ্রাপ্ত</item>
+        <item>অন্যান্য</item>
+    </string-array>
+    <string-array name="slum_list">
+        <item>Select One</item>
+        <item>Sattala Chowdhury Para</item>
+        <item>Earshad Nagar Bosti</item>
+        <item>Korail Bosti</item>
+        <item>Settelite Bosti</item>
+        <item>Baganbari Bosti</item>
+        <item>Lalashorai Tekpara Bosti</item>
+        <item>West Vashantek Bosti</item>
+        <item>Duaripara Bosti</item>
+        <item>Nagra Madbar Bosti</item>
+        <item>Beltola Bosti</item>
+        <item>Goidertek</item>
+        <item>Borhanpur</item>
+        <item>Lawtola</item>
+        <item>Balurmath (Lalbagh)</item>
+        <item>Sohidnagar (Lalbagh)</item>
+    </string-array>
+    <string name="title_activity_dengue">DengueActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
